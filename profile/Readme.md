@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# AGEMAN - Bangkit 2023 Capstone Project
+# AGEMAN - Bangkit 2024 Capstone Project
 
 "AGEMAN" is an innovative project designed to tackle the challenge of dwindling interest among the younger generation in Balinese traditional dance. Through the integration of dance scan features and interactive dancer workshops, our aim is to both preserve and promote Bali's rich cultural heritage. The decline in interest stems from a lack of accessible resources for understanding and appreciating Balinese dance, coupled with limited opportunities for hands-on engagement.
 
